@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=npsulav&label=Visits&color=0e75b6&style=plastic" alt="npsulav" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter** ( View My CV <a href="https://npsulav.github.io/my-cv/my-cv.html">here</a> )
 
 - 💖 I love **digging up codes**
 
